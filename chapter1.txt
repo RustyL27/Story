@@ -1,1 +1,1 @@
-This is another project, in the context of Git and Github.
+This is another project, in the context of Git and Github.  But this is the file in the new branch.
